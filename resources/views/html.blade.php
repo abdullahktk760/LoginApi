@@ -8,6 +8,6 @@
 </head>
 <body>
    <a href="{{$data['url']}}">Click the link to reset Passowrd</a>
-    {{-- i will learn github one day InshAllah --}}
+    
 </body>
 </html>
